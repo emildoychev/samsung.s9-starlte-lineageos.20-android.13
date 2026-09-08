@@ -6,7 +6,7 @@ https://dl.twrp.me/starlte/
 
 twrp-3.7.0_9-0-starlte.img.tar | 40.7 MB | 2022-10-15
 
-+ no-verity-opt-encrypt-6.1.zip
+& no-verity-opt-encrypt-6.1.zip
 
 Boot into TWRP Recovery -> Wipe/Format -> Install
 
