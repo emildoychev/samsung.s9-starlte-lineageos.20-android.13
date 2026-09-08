@@ -1,1 +1,2 @@
-# samsung.s9-starlte-lineageos.20-android.13
+Samsung S9 | starlte | LineageOS 20 (Android 13)
+
